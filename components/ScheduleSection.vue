@@ -236,7 +236,7 @@ const legenda = computed(() =>
       </div>
 
       <p class="mt-8 text-center text-xs leading-relaxed text-white/60">
-        Alterações na grade serão informadas com antecedência · Tolerância de 5 minutos para atrasos sem justificativa
+        Alterações na grade serão informadas com antecedência
       </p>
     </div>
   </section>

@@ -93,7 +93,7 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll))
       <nav
         v-if="open"
         id="mobile-nav"
-        class="border-t border-ink-900/10 bg-white md:hidden"
+        class="absolute inset-x-0 top-full border-t border-ink-900/10 bg-white/90 shadow-lg backdrop-blur md:hidden"
       >
         <ul class="mx-auto flex max-w-6xl flex-col gap-1 px-6 py-3">
           <li v-for="item in nav" :key="item.href">
