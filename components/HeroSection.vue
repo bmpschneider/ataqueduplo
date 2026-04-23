@@ -27,12 +27,12 @@
             href="https://wa.me/5548996483629?text=Ol%C3%A1%21%20Quero%20agendar%20uma%20aula%20experimental."
             target="_blank"
             rel="noopener"
-            class="w-full rounded-xl bg-accent-600 px-8 py-4 text-center text-base font-semibold text-white shadow-lg shadow-accent-900/30 transition hover:bg-accent-500 sm:w-auto sm:text-lg"
+            class="inline-flex w-full items-center justify-center rounded-lg bg-accent-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-accent-500 sm:w-auto"
           >
             Agendar aula experimental
           </a>
         </div>
-        <dl class="mt-12 grid max-w-xl grid-cols-3 gap-8 border-t border-white/10 pt-6">
+        <dl class="mt-12 grid max-w-xl grid-cols-3 gap-8 border-t border-white/10 pt-6 text-center sm:text-left">
           <div>
             <dt class="text-xs uppercase tracking-widest text-white/60">Fundada em</dt>
             <dd class="mt-1 font-display text-3xl">1996</dd>
