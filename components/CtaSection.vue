@@ -20,7 +20,7 @@
       </p>
       <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
         <a
-          href="https://wa.me/"
+          href="https://wa.me/5548996483629"
           target="_blank"
           rel="noopener"
           class="rounded-lg bg-accent-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-accent-500"
@@ -28,12 +28,12 @@
           Falar no WhatsApp
         </a>
         <a
-          href="https://instagram.com/ataqueduplooficial"
+          href="https://www.instagram.com/ataqueduplohq/"
           target="_blank"
           rel="noopener"
           class="rounded-lg border border-white/30 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
         >
-          @ataqueduplooficial
+          @ataqueduplohq
         </a>
       </div>
     </div>

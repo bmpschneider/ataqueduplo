@@ -23,18 +23,18 @@ const mapSrc =
             <p>R. Santa Catarina — Bela Vista</p>
             <p>São José — SC, 88110-300</p>
           </address>
-          <div class="mt-8 flex flex-wrap gap-3">
+          <div class="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
             <a
               href="https://www.google.com/maps/search/?api=1&query=R.+Santa+Catarina+Bela+Vista+S%C3%A3o+Jos%C3%A9+SC"
               target="_blank"
               rel="noopener"
-              class="rounded-lg bg-ink-950 px-5 py-3 text-sm font-semibold text-white transition hover:bg-ink-800"
+              class="rounded-lg bg-ink-950 px-5 py-3 text-center text-sm font-semibold text-white transition hover:bg-ink-800"
             >
               Abrir no Google Maps
             </a>
             <a
               href="#contato"
-              class="rounded-lg border border-ink-300 px-5 py-3 text-sm font-semibold text-ink-800 transition hover:bg-ink-100"
+              class="rounded-lg border border-ink-300 px-5 py-3 text-center text-sm font-semibold text-ink-800 transition hover:bg-ink-100"
             >
               Falar com a academia
             </a>

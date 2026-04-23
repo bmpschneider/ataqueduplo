@@ -153,7 +153,7 @@ const legenda = computed(() =>
             :class="activeMat === 'mat1' ? 'bg-accent-500 text-white' : 'text-white/70 hover:text-white'"
             @click="activeMat = 'mat1'"
           >
-            Mat 1 · Jiu-Jitsu / Judô
+            Jiu-Jitsu / Judô
           </button>
           <button
             type="button"
@@ -161,7 +161,7 @@ const legenda = computed(() =>
             :class="activeMat === 'mat2' ? 'bg-accent-500 text-white' : 'text-white/70 hover:text-white'"
             @click="activeMat = 'mat2'"
           >
-            Mat 2 · Muay-Thai
+            Muay-Thai
           </button>
         </div>
       </div>

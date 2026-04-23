@@ -2,7 +2,7 @@
 
 <template>
   <a
-    href="https://wa.me/"
+    href="https://wa.me/5548996483629"
     target="_blank"
     rel="noopener"
     aria-label="Falar no WhatsApp"

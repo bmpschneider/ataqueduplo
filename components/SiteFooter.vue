@@ -27,22 +27,22 @@ const year = new Date().getFullYear()
         <ul class="mt-3 space-y-2 text-sm">
           <li>
             <a
-              href="https://instagram.com/ataqueduplooficial"
+              href="https://www.instagram.com/ataqueduplohq/"
               target="_blank"
               rel="noopener"
               class="text-white/80 transition hover:text-white"
             >
-              Instagram · @ataqueduplooficial
+              Instagram · @ataqueduplohq
             </a>
           </li>
           <li>
             <a
-              href="https://www.ataqueduplo.com.br/"
+              href="https://www.ataqueduplohq.com.br/"
               target="_blank"
               rel="noopener"
               class="text-white/80 transition hover:text-white"
             >
-              ataqueduplo.com.br
+              ataqueduplohq.com.br
             </a>
           </li>
         </ul>

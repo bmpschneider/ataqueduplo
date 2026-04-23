@@ -2,7 +2,9 @@
 
 <template>
   <div class="min-h-screen bg-white font-sans text-ink-900 antialiased">
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
     <WhatsappFab />
   </div>
 </template>
