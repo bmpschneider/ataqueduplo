@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(file /Users/brunoschneider/Documents/ataqueduplo/public/images/*.jpg /Users/brunoschneider/Documents/ataqueduplo/public/images/*.png)",
+      "Bash(lsof -iTCP -sTCP:LISTEN -nP)",
+      "Bash(curl -s -o /dev/null -w \"HTTP: %{http_code} | Size: %{size_download} | Type: %{content_type}\\\\n\" http://localhost:3000/images/hero-turma.jpg)",
+      "Bash(curl -s -o /dev/null -w \"HTTP: %{http_code} | Size: %{size_download} | Type: %{content_type}\\\\n\" http://localhost:3000/images/competicao.jpg)",
+      "Bash(curl -s -o /dev/null -w \"HTTP: %{http_code} | Size: %{size_download} | Type: %{content_type}\\\\n\" http://localhost:3000/images/detalhe-kimono.jpg)",
+      "Bash(curl -s http://localhost:3000/images/hero-turma.jpg)",
+      "Bash(kill 66916 66991)",
+      "Bash(npm run *)",
+      "Bash(echo \"Started PID: $!\")",
+      "Read(//private/tmp/**)",
+      "Bash(curl -s -o /dev/null -w \"hero-turma: HTTP %{http_code} | Size %{size_download}\\\\n\" http://localhost:3000/images/hero-turma.jpg)",
+      "Bash(curl -s -o /dev/null -w \"competicao: HTTP %{http_code} | Size %{size_download}\\\\n\" http://localhost:3000/images/competicao.jpg)",
+      "Bash(curl -s -o /dev/null -w \"detalhe-kimono: HTTP %{http_code} | Size %{size_download}\\\\n\" http://localhost:3000/images/detalhe-kimono.jpg)",
+      "Bash(curl -s -o /dev/null -w \"logo-white: HTTP %{http_code} | Size %{size_download}\\\\n\" http://localhost:3000/images/logo-adjj-white.png)",
+      "Bash(curl -s -o /dev/null -w \"luta-tatame: HTTP %{http_code} | Size %{size_download}\\\\n\" http://localhost:3000/images/luta-tatame.jpg)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
