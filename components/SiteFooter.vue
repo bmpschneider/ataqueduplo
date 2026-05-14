@@ -37,12 +37,12 @@ const year = new Date().getFullYear()
           </li>
           <li>
             <a
-              href="https://www.ataqueduplohq.com.br/"
+              href="https://www.ataqueduplobelavista.com.br/"
               target="_blank"
               rel="noopener"
               class="text-white/80 transition hover:text-white"
             >
-              ataqueduplohq.com.br
+              ataqueduplobelavista.com.br
             </a>
           </li>
         </ul>

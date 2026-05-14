@@ -34,6 +34,7 @@ export default defineNuxtConfig({
             'Tradição desde 1996. Aulas de Jiu-Jitsu em São José, SC para todos os níveis.',
         },
         { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://www.ataqueduplobelavista.com.br/' },
       ],
       link: [
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
